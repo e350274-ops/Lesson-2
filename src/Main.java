@@ -3,17 +3,12 @@ public class Main {
     public static void main(String[] args) {
 
         printThreeWords();
-
         checkSumSign();
-
         printColor();
-
         compareNumbers();
 
         System.out.println(checkSum(10, 7));
-
         printNumberSign(0);
-
         System.out.println(isNegative(-5));
 
         printStringMultipleTimes("Hello QA", 3);
@@ -33,7 +28,7 @@ public class Main {
 
         int[] filled = createArrayWithValue(5, 7);
 
-        // 🔥 change for PR (важно для GitHub)
+        // change for PR
         System.out.println(1);
     }
 
