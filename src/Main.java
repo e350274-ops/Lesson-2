@@ -151,7 +151,7 @@ public class Main {
 
         for (int i = 0; i < len; i++) {
             arr[i] = initialValue;
-        }
+        }??????
 
         return arr;?????????
     }
