@@ -28,6 +28,7 @@ public class Main {
 
         int[] filled = createArrayWithValue(5, 7);
 
+        // change for PR
         System.out.println(1);
     }
 
@@ -112,6 +113,7 @@ public class Main {
         for (int i = 0; i < size; i++) {
             arr[i] = i + 1;
         }
+
         return arr;
     }
 
