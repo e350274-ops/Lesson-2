@@ -42,4 +42,4 @@ public class Main {
             System.out.println("Поймали ArrayIndexOutOfBoundsException: " + e.getMessage());
         }
     }
-}
+} ????
