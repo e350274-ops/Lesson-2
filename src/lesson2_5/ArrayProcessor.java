@@ -1,3 +1,5 @@
+package lesson2_5;
+
 public class ArrayProcessor {
 
     public static int processArray(String[][] array)

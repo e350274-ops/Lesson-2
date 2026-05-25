@@ -1,3 +1,5 @@
+package lesson2_5;
+
 public class MyArraySizeException extends Exception {
 
     // Конструктор с сообщением об ошибке
